@@ -11,3 +11,7 @@
  MENTOR:NEELA SANTHOSH
 
 I USED PYTHON TO FETCH DATA FROM A PUBLIC API AND CREATE VISUALIZATIONS USING MATPLOTLIB 
+
+OUTPUT:
+
+<img width="606" alt="Image" src="https://github.com/user-attachments/assets/f56ef1dc-51ae-4c36-b9a0-f9e69d1ced29" />
